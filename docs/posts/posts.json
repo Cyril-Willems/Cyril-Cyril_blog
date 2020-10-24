@@ -1,5 +1,28 @@
 [
   {
+    "path": "posts/2020-10-24-mon-article/",
+    "title": "mon article",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "willems cyril",
+        "url": {}
+      },
+      {
+        "name": "Nicolas Devilez",
+        "url": {}
+      },
+      {
+        "name": "Engels Guyliann",
+        "url": "https://guyliann.netlify.com/fr"
+      }
+    ],
+    "date": "2020-10-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-24T14:58:05+02:00"
+  },
+  {
     "path": "posts/2019-10-24-bacteria-antobiotics/",
     "title": "Bacterium adaptation",
     "description": "Analysis of \"More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut\"",

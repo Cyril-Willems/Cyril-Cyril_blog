@@ -17,5 +17,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+#Introduction 
+
+the mesozoic era was divided into three parts: the Triassic, Jurassic, Cretaceous. The mesozoic is wellknown beacause it's the period where the most biggest living being were; the dinosaurs. But they were many others animals and plants less known. Each of these parts of the mesozoic had their own fauna and flaura.
+
 #Article 1
 

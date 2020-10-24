@@ -1,14 +1,10 @@
 ---
-title: "mon article"
+title: "The mesozoic era"
 description: |
-  A short description of the post.
+  we will see how this era begins and finishes, what was living at this time, the differnce between with our era. 
 author:
   - name: willems cyril
     url: {}
-  - name: Nicolas Devilez
-    url: {}
-  - name: Engels Guyliann
-    url: https://guyliann.netlify.com/fr
 date: 10-24-2020
 output:
   distill::distill_article:
@@ -19,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+#Article 1
 

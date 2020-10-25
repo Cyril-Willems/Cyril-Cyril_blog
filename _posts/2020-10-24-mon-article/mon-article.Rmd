@@ -1,7 +1,7 @@
 ---
 title: "The triassic period"
 description: |
-  we will see how this era begins and finishes, what was living at this time, the differnce with our era. 
+  we will see how this era begins and finishes, what was living at this time in the ocean and on the ground. 
 author:
   - name: willems cyril
     url: {}
@@ -92,3 +92,19 @@ sprouting                  |          acquire                    | poussant     
 ribs                       |          costal bone                | côtes                          |
 ---------------------------|-------------------------------------|--------------------------------|
 therefore                  |          as a consequence           | par conséquent                 |
+
+# analysis table about the study #
+
+
+ Researcher ?              |     Mary Bagley
+ --------------------------|------------------------------------------------------------------------------------------------
+ Published in ?            |     liveScience 
+---------------------------|------------------------------------------------------------------------------------------------
+ General Topic             | the triassic period and the animals who lived in this time
+ --------------------------|------------------------------------------------------------------------------------------------
+ What was examined ?       | this article examines de weather at this time and the geology. It also describe an animal of 
+                           | each family of animals; sea animal (Ichtyosauria), plants, insectes, reptiles (Therapsids,                                | Archosaurs), mammals (Eozostrodon).
+ --------------------------|------------------------------------------------------------------------------------------------
+ Conclusion                | this article talk about each subject but it isn't accurate.
+ --------------------------|------------------------------------------------------------------------------------------------
+ remaining questions       |

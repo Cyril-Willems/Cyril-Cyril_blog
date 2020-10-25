@@ -1,7 +1,7 @@
 ---
-title: "The mesozoic era"
+title: "The triassic period"
 description: |
-  we will see how this era begins and finishes, what was living at this time, the differnce between with our era. 
+  we will see how this era begins and finishes, what was living at this time, the differnce with our era. 
 author:
   - name: willems cyril
     url: {}
@@ -15,12 +15,46 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-
-# Introduction #
-
-the mesozoic era was divided into three parts: the Triassic, Jurassic, Cretaceous. The mesozoic is wellknown beacause it's the period where the most biggest living being were; the dinosaurs. But they were many others animals and plants less known. Each of these parts of the mesozoic had their own fauna and flora.
-
 # The triassic period #
 
-The
+[click on this link to go at the articles analysed](https://www.livescience.com/43295-triassic-period.html)
+![triassic picture](../triassic picture)
+
+
+# vocabulary #
+
+word from the text         |       definition or synonym                  translation in french
+monsoon                    |
+caps
+seafloor
+rift
+wiped out
+extant
+stony
+shallow
+eels
+shaped
+snout
+tail
+fin
+forelimb
+hindlimb
+steamlined
+genus
+recover
+fern
+predate
+jaw
+apex
+upright
+stance
+hip
+pick up speed
+hollow
+sharp
+clawed
+bony
+glided
+sprouting
+ribs
+therefore

@@ -7,15 +7,13 @@ author:
   - name: Van Lancker Ingrid
   - name: Engels Guyliann
     url: https://guyliann.netlify.com/fr
-date: "`r Sys.Date()`"
+date: "10-25-2019"
 bibliography: biblio/rodent.bib
 categories:
   - "English for Science"
   - "Paleontology"
   - "Rodent"
-output:
-  distill::distill_article:
-    self_contained: false
+output: distill::distill_article
 draft: false
 ---
 

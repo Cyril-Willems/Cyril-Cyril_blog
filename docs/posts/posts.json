@@ -28,8 +28,8 @@
   },
   {
     "path": "posts/2020-10-24-mon-article/",
-    "title": "The mesozoic era",
-    "description": "we will see how this era begins and finishes, what was living at this time, the differnce between with our era.",
+    "title": "The triassic period",
+    "description": "we will see how this era begins and finishes, what was living at this time in the ocean and on the ground.",
     "author": [
       {
         "name": "willems cyril",
@@ -39,7 +39,7 @@
     "date": "2020-10-24",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-24T18:44:56+02:00"
+    "last_modified": "2020-10-26T17:29:12+01:00"
   },
   {
     "path": "posts/about/",

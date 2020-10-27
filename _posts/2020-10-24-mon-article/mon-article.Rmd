@@ -6,9 +6,7 @@ author:
   - name: willems cyril
     url: {}
 date: 10-24-2020
-output:
-  distill::distill_article:
-    self_contained: false
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
@@ -107,4 +105,4 @@ therefore                  |          as a consequence           | par conséque
  --------------------------|------------------------------------------------------------------------------------------------
  Conclusion                | this article talk about each subject but it isn't accurate.
  --------------------------|------------------------------------------------------------------------------------------------
- remaining questions       |
+ remaining questions       | /

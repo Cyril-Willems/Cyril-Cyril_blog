@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/Cyril-Willems/Cyril_blog
-base_url: http.//Cyril-Willems.github.io/Cyril_blog/
+base_url: http://Cyril-Willems.github.io/Cyril_blog/
 collections:
     posts:
       disqus: cyril-blog

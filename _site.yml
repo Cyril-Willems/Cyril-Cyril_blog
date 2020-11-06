@@ -10,12 +10,12 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/Cyril-Willems/Cyril-Cyril_blog.git
-base_url: Cyril-Willems.github.io/Cyril-Cyril_blog/
+      href: https://github.com/Cyril-Willems/Cyril_blog
+base_url: http.//Cyril-Willems.github.io/Cyril_blog/
 collections:
     posts:
+      disqus: cyril-blog
       share: [twitter, linkedin, facebook]
-      #disqus: 
 output:
   distill::distill_article:
     css: style.css

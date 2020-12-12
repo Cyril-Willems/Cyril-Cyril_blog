@@ -17,21 +17,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # vocabulary #
 
-word of the text-----------|--------definition or synonym --------|-------translation in french----|
+word of the text           |        definition or synonym         |       translation in french    |
 ---------------------------|--------------------------------------|--------------------------------|
-land-----------------------|--------related to the ground---------|-------terrestre----------------|
+land                       |        related to the ground         |       terrestre                |
 ---------------------------|--------------------------------------|--------------------------------|
-tails----------------------|--------animal end part---------------|-------queue--------------------|
+tails                      |        animal end part               |       queue                    |
 ---------------------------|--------------------------------------|--------------------------------|
-fringes--------------------|--------edge of area------------------|-------périphérie---------------|
+fringes                    |        edge of area                  |       périphérie               |
 ---------------------------|--------------------------------------|--------------------------------|
-evergreen------------------|--------green all year----------------|------feuilles persistantes-----|
+evergreen                  |        green all year                |      feuilles persistantes     |
 ---------------------------|--------------------------------------|--------------------------------|
-erroneously----------------|--------mistakenly--------------------|------faussement----------------|
+erroneously                |        mistakenly                    |      faussement                |
 ---------------------------|--------------------------------------|--------------------------------|
-upright--------------------|--------vertical----------------------|------debout--------------------|
+upright                    |        vertical                      |      debout--------------------|
 ---------------------------|--------------------------------------|--------------------------------|
-lush-----------------------|--------abundant vegetation-----------|------luxuriant-----------------|
+lush                       |        abundant vegetation           |      luxuriant                 |
 
 
 # analysis table about the study #

@@ -1,0 +1,52 @@
+---
+title: "the Jurassic period"
+author:
+  name: willems Cyril
+  url: {}
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# the jurassic period #
+
+[click on this link to go at the articles analysed](https://www.wise-geek.com/what-was-the-jurassic-period.htm#:~:text=Last%20Modified%20Date%3A%20November%2027%2C%202020%20The%20Jurassic,million%20years%20ago%20to%20145%20million%20years%20ago.)
+
+# vocabulary #
+
+word of the text-----------|--------definition or synonym --------|-------translation in french----|
+---------------------------|--------------------------------------|--------------------------------|
+land-----------------------|--------related to the ground---------|-------terrestre----------------|
+---------------------------|--------------------------------------|--------------------------------|
+tails----------------------|--------animal end part---------------|-------queue--------------------|
+---------------------------|--------------------------------------|--------------------------------|
+fringes--------------------|--------edge of area------------------|-------périphérie---------------|
+---------------------------|--------------------------------------|--------------------------------|
+evergreen------------------|--------green all year----------------|------feuilles persistantes-----|
+---------------------------|--------------------------------------|--------------------------------|
+erroneously----------------|--------mistakenly--------------------|------faussement----------------|
+---------------------------|--------------------------------------|--------------------------------|
+upright--------------------|--------vertical----------------------|------debout--------------------|
+---------------------------|--------------------------------------|--------------------------------|
+lush-----------------------|--------abundant vegetation-----------|------luxuriant-----------------|
+
+
+# analysis table about the study #
+
+Researcher ?               |    Michael anissimov
+ --------------------------|-------------------------------------------------------------------------------------------
+ Published in ?            |     november 27, 2020
+---------------------------|-------------------------------------------------------------------------------------------
+ General Topic             |     the jurassic period
+ --------------------------|-------------------------------------------------------------------------------------------
+ What was examined ?       | the description of some sauropods, the pangea at this time and the climate.
+                           | 
+ --------------------------|-------------------------------------------------------------------------------------------
+ Conclusion                | this article is accurate about the sauropods but is too much light for the climate and the                            | birds.
+ --------------------------|-------------------------------------------------------------------------------------------
+ remaining questions       | -What about the geology ? 
+                           | -Where are the mammals ? 
+

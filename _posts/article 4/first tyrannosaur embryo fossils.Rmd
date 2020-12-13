@@ -1,5 +1,7 @@
 ---
 title: "first tyrannosaur embryo fossils"
+description: |
+  a discover about a mythical animal of the mesozoic era.
 author: "Cyril Willems"
 date: "13/12/2020"
 output: distill::distill_article
@@ -8,4 +10,42 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+[click on this link to go at the articles analysed](https://www.nationalgeographic.com/science/2020/10/first-tyrannosaur-embryo-fossils-revealed/)
+
+![embryo fossil](/embryo fossil.jfif)
+# vocabulary #
+
+word of the text           |        definition or synonym         |       translation in french    |
+---------------------------|--------------------------------------|--------------------------------|
+claw                       |        use to cut and injure         |       griffe                   |
+---------------------------|--------------------------------------|--------------------------------|
+jaw                        |        face around jawbone           |       machoire                 |
+---------------------------|--------------------------------------|--------------------------------|
+wrap-up                    |        envelop                       |       envelloper               |
+---------------------------|--------------------------------------|--------------------------------|
+snugly                     |        confortably                   |       confortablement          |
+---------------------------|--------------------------------------|--------------------------------|
+apex                       |        summit                        |       sommet                   |
+---------------------------|--------------------------------------|--------------------------------|
+itty-bitty                 |        very small, tiny              |       très petit               |
+---------------------------|--------------------------------------|--------------------------------|
+hatch                      |   action of an animal who leave egg  |       éclore                   |
+---------------------------|--------------------------------------|--------------------------------|
+foray                      |         attack                       |       incursion                |
+
+
+# analysis table about the study #
+
+Researcher ?               |    National geographic
+ --------------------------|-------------------------------------------------------------------------------------------
+Published in ?             |    19 october 2020
+---------------------------|-------------------------------------------------------------------------------------------
+General Topic              |    the discover of a tyrannosaur embryo
+ --------------------------|-------------------------------------------------------------------------------------------
+What was examined ?        |    the anatomy of the baby T-rex, his diet and the search of other litle fossils.
+ --------------------------|-------------------------------------------------------------------------------------------
+Conclusion                 |    the discover of this embryo is a great advance for the paleontology.
+ --------------------------|-------------------------------------------------------------------------------------------
+remaining questions        |    Is tyrannosaur embryo the only dinosaur embryo found ?
 

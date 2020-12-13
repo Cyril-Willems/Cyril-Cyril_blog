@@ -1,0 +1,11 @@
+---
+title: "first tyrannosaur embryo fossils"
+author: "Cyril Willems"
+date: "13/12/2020"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

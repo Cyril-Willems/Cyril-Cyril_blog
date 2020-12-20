@@ -1,0 +1,34 @@
+---
+title: "graphic_description"
+description: |
+  A short description of the post.
+author:
+  - name: willems cyril
+    url: {}
+date: 12-20-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+SciViews::R
+data <- read("zooplankton", package = "data.io")
+```
+
+We will analyse the repartition of different class of zooplankton in the population.
+
+
+```{r}
+chart(zooplankton, aes(y = class)) +
+  geom_bar() +
+  xlab("Effectifs") 
+```
+
+We can see that the different class aren't equal in number. the largest class this species is the Calanoid and by far. The second largest class is the Poecilostomatoid and this one is only the half of the Calanoid. Then the Decapod and the Malacostracan come after. The other class are pretty equal in number.
+
+

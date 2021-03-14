@@ -15,6 +15,21 @@
     "last_modified": "2021-03-14T14:57:44+01:00"
   },
   {
+    "path": "posts/article 6/",
+    "title": "dinosaur's cancer",
+    "description": {},
+    "author": [
+      {
+        "name": "willems cyril",
+        "url": {}
+      }
+    ],
+    "date": "2021-03-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-03-14T15:40:48+01:00"
+  },
+  {
     "path": "posts/2020-12-20-graphicdescription/",
     "title": "graphic_description",
     "description": "A short description of the post.",

@@ -1,8 +1,10 @@
 ---
 title: "dinosaur's cancer"
-author: "Cyril Willems"
-date: "14/03/2021"
-output: html_document
+author:
+  - name: willems cyril
+    url: {}
+date: "`r Sys.Date()`"
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}

@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 [click on this link to go at the articles analysed](https://www.nhm.ac.uk/discover/dinosaur-extinction.html)
-
+![extinction of the dinosaurs](../article 5/end of dinosaurs.png)
 
 
 

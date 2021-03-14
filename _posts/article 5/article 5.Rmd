@@ -1,0 +1,43 @@
+---
+title: "end of the dinosaurs"
+author:
+  - name: willems cyril
+    url: {}
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[click on this link to go at the articles analysed](https://www.nhm.ac.uk/discover/dinosaur-extinction.html)
+
+
+
+
+# vocabulary #
+
+word from the text         |       definition or synonym         |        translation in french   |
+---------------------------|-------------------------------------|--------------------------------|
+fate                       |          ultimate situation         |    sort                        |
+---------------------------|-------------------------------------|--------------------------------|
+culprit                    |          causing a problem          |    plafond                     |
+---------------------------|-------------------------------------|--------------------------------|
+
+
+
+# analysis table about the study #
+
+
+ Researcher ?              |     Sam Rae and Lisa Hendry
+ --------------------------|-------------------------------------------------------------------------------------------
+ Published in ?            |     10/03/2021
+---------------------------|-------------------------------------------------------------------------------------------
+ General Topic             |     the end of the dinosaurs
+ --------------------------|-------------------------------------------------------------------------------------------
+ What was examined ?       |     causes of the extiction of the dinosaurs and what's remains after that.
+ --------------------------|-------------------------------------------------------------------------------------------
+ Conclusion                |     article don't give many information.
+ --------------------------|-------------------------------------------------------------------------------------------
+ remaining questions       |     they said that the dinosaurs were alreasy dying but due to what ?

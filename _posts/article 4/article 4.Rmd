@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [click on this link to go at the articles analysed](https://www.nationalgeographic.com/science/2020/10/first-tyrannosaur-embryo-fossils-revealed/)
 
 ![embryo fossil](/embryo fossil.jfif)
+
 # vocabulary #
 
 word of the text           |        definition or synonym         |       translation in french    |

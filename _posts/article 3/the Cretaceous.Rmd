@@ -1,5 +1,5 @@
 ---
-title: "the Cretaceous"
+title: "The Cretaceous"
 author: "Cyril Willems"
 date: "12/12/2020"
 output: distill::distill_article

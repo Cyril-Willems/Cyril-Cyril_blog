@@ -1,5 +1,5 @@
 ---
-title: "the Jurassic period"
+title: "The Jurassic period"
 author:
   name: willems Cyril
   url: {}

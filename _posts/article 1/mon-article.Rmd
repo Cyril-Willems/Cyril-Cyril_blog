@@ -94,14 +94,13 @@ therefore                  |          as a consequence           | par conséque
 
 
  Researcher ?              |     Mary Bagley
- --------------------------|------------------------------------------------------------------------------------------------
- Published in ?            |     liveScience 
----------------------------|------------------------------------------------------------------------------------------------
+ --------------------------|-----------------------------------------------------------------------------------------
+ Published in ?            |     /
+---------------------------|-----------------------------------------------------------------------------------------
  General Topic             | the triassic period and the animals who lived in this time
- --------------------------|------------------------------------------------------------------------------------------------
- What was examined ?       | this article examines de weather at this time and the geology. It also describe an animal of 
-                           | each family of animals; sea animal (Ichtyosauria), plants, insectes, reptiles (Therapsids,                                | Archosaurs), mammals (Eozostrodon).
- --------------------------|------------------------------------------------------------------------------------------------
+ --------------------------|-----------------------------------------------------------------------------------------
+ What was examined ?       | this article examines de weather at this time and the geology. It also describe an                                 |  animal of each family of animals; sea animal (Ichtyosauria), plants, insectes, reptiles                            | (Therapsids, Archosaurs), mammals (Eozostrodon).
+ --------------------------|-----------------------------------------------------------------------------------------
  Conclusion                | this article talk about each subject but it isn't accurate.
- --------------------------|------------------------------------------------------------------------------------------------
+ --------------------------|-----------------------------------------------------------------------------------------
  remaining questions       | /

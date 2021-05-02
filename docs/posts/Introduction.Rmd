@@ -1,0 +1,17 @@
+---
+title: "Introduction"
+author: "Cyril Willems"
+date: "02/05/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Introduction #
+
+For my articles, i decided to speak about the mezosoic era, some great discover we have done recently and the end of this era. First i will speak about each parts of this era (3) and we will see that it was significantly different that now.
+
+But why i chose this subject ? 
+
+the main reason is because i find that very interesting and a slighly more scientific reason is that we can learn about the past to better known the futur.

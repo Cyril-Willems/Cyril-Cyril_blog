@@ -1,5 +1,5 @@
 ---
-title: "dinosaur's cancer"
+title: "Dinosaur's cancer"
 author:
   - name: willems cyril
     url: {}

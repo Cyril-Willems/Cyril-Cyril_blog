@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/article 4/",
-    "title": "first tyrannosaur embryo fossils",
+    "title": "First tyrannosaur embryo fossils",
     "description": "a discover about a mythical animal of the mesozoic era.",
     "author": [
       {
@@ -12,11 +12,11 @@
     "date": "2021-05-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-05-02T14:33:36+02:00"
+    "last_modified": "2021-05-02T18:02:30+02:00"
   },
   {
     "path": "posts/article 5/",
-    "title": "end of the dinosaurs",
+    "title": "End of the dinosaurs",
     "description": {},
     "author": [
       {
@@ -27,7 +27,22 @@
     "date": "2021-05-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2021-05-02T12:48:40+02:00"
+    "last_modified": "2021-05-02T18:02:56+02:00"
+  },
+  {
+    "path": "posts/article 6/",
+    "title": "Dinosaur's cancer",
+    "description": {},
+    "author": [
+      {
+        "name": "willems cyril",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-05-02T18:03:23+02:00"
   },
   {
     "path": "posts/bibliography/",
@@ -106,21 +121,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2021-03-15T12:02:26+01:00"
-  },
-  {
-    "path": "posts/article 6/",
-    "title": "dinosaur's cancer",
-    "description": {},
-    "author": [
-      {
-        "name": "willems cyril",
-        "url": {}
-      }
-    ],
-    "date": "2021-03-14",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-03-14T15:40:48+01:00"
   },
   {
     "path": "posts/2020-12-20-graphicdescription/",

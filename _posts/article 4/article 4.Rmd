@@ -1,5 +1,5 @@
 ---
-title: "first tyrannosaur embryo fossils"
+title: "First tyrannosaur embryo fossils"
 description: |
   a discover about a mythical animal of the mesozoic era.
 author:

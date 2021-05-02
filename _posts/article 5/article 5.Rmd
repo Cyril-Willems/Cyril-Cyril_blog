@@ -1,5 +1,5 @@
 ---
-title: "end of the dinosaurs"
+title: "End of the dinosaurs"
 author:
   - name: willems cyril
     url: {}

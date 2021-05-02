@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
  [https://www.wise-geek.com/what-was-the-jurassic-period.htm#:~:text=Last%20Modified%20Date%3A%20November%2027%2C%202020%20The%20Jurassic,million%20years%20ago%20to%20145%20million%20years%20ago.](https://www.wise-geek.com/what-was-the-jurassic-period.htm#:~:text=Last%20Modified%20Date%3A%20November%2027%2C%202020%20The%20Jurassic,million%20years%20ago%20to%20145%20million%20years%20ago.)
 
 * Cretaceous period, National geographic,
- [https://www.nationalgeographic.com/science/prehistoric-world/cretaceous/]((https://www.nationalgeographic.com/science/prehistoric-world/cretaceous/).
+ [https://www.nationalgeographic.com/science/prehistoric-world/cretaceous/](https://www.nationalgeographic.com/science/prehistoric-world/cretaceous/).
 
 * First tyrannosaur embryo fossils revealed, National geographic,
  [https://www.nationalgeographic.com/science/2020/10/first-tyrannosaur-embryo-fossils-revealed/](https://www.nationalgeographic.com/science/2020/10/first-tyrannosaur-embryo-fossils-revealed/).

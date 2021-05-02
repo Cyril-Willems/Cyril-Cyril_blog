@@ -15,19 +15,19 @@ knitr::opts_chunk$set(echo = TRUE)
   [https://www.livescience.com/43295-triassic-period.html](https://www.livescience.com/43295-triassic-period.html).
 
 * Michael Anissimov, What Was the Jurassic Period ?, WiseGeek,
- [https://www.wise-geek.com/what-was-the-jurassic-period.htm#:~:text=Last%20Modified%20Date%3A%20November%2027%2C%202020%  20The%20Jurassic,million%20years%20ago%20to%20145%20million%20years%20ago.](https://www.wise-geek.com/what-was-the-juras  sic-period.htm#:~:text=Last%20Modified%20Date%3A%20November%2027%2C%202020%20The%20Jurassic,million%20years%20ago%20to%2  0145%20million%20years%20ago.).
+ [https://www.wise-geek.com/what-was-the-jurassic-period.htm#:~:text=Last%20Modified%20Date%3A%20November%2027%2C%20220%  20The%20Jurassic,million%20years%20ago%20to%20145%20million%20years%20ago.](https://www.wise-geek.com/what-was-the-jurassic-period.htm#:~:text=Last%20Modified%20Date%3A%20November%2027%2C%20220%  20The%20Jurassic,million%20years%20ago%20to%20145%20million%20years%20ago.)
 
 * Cretaceous period, National geographic,
- [https://www.nationalgeographic.com/science/prehistoric-world/cretaceous/](https://www.nationalgeographic.com/science/pr  ehistoric-world/cretaceous/).
+ [https://www.nationalgeographic.com/science/prehistoric-world/cretaceous/](https://www.nationalgeographic.com/science/prehistoric-world/cretaceous/).
 
 * First tyrannosaur embryo fossils revealed, National geographic,
- [https://www.nationalgeographic.com/science/2020/10/first-tyrannosaur-embryo-fossils-revealed/](https://www.nationalgeog  raphic.com/science/2020/10/first-tyrannosaur-embryo-fossils-revealed/).
+ [https://www.nationalgeographic.com/science/2020/10/first-tyrannosaur-embryo-fossils-revealed/](https://www.nationalgeographic.com/science/2020/10/first-tyrannosaur-embryo-fossils-revealed/).
  
 * Sam Rae and Lisa Hendry, What killed the dinosaurs ?, Natural history museum,
  [https://www.nhm.ac.uk/discover/dinosaur-extinction.html](https://www.nhm.ac.uk/discover/dinosaur-extinction.html).
 
 * Katie Hunt, Dinosaur diagnosed with bone cancer that afflicts humans today, CNN,
- [https://edition.cnn.com/2020/08/03/americas/dinosaur-fossil-cancer-first-scn/index.htm](https://edition.cnn.com/2020  /08/03/americas/dinosaur-fossil-cancer-first-scn/index.htm).
+ [https://edition.cnn.com/2020/08/03/americas/dinosaur-fossil-cancer-first-scn/index.htm](https://edition.cnn.com/2020/08/03/americas/dinosaur-fossil-cancer-first-scn/index.htm).
 
 * University of Bristol, Why crocodiles have changed so little since the age of the dinosaurs, Science news,
- [https://www.sciencedaily.com/releases/2021/01/210107083751.htm](https://www.sciencedaily.com/releases/2021/01/210107  083751.htm).
+ [https://www.sciencedaily.com/releases/2021/01/210107083751.htm](https://www.sciencedaily.com/releases/2021/01/210107083751.htm)

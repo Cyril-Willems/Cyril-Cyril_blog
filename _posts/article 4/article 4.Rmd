@@ -1,7 +1,6 @@
 ---
 title: "First tyrannosaur embryo fossils"
-description: |
-  a discover about a mythical animal of the mesozoic era.
+description: 
 author:
   - name: willems cyril
     url: {}

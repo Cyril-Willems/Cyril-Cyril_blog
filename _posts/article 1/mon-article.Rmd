@@ -1,7 +1,6 @@
 ---
 title: "The triassic period"
-description: |
-  we will see how this era begins and finishes, what was living at this time in the ocean and on the ground. 
+description:  
 author:
   - name: willems cyril
     url: {}

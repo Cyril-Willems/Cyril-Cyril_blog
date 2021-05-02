@@ -10,8 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 # Introduction #
 
-For my articles, i decided to speak about the mezosoic era, some great discover we have done recently and the end of this era. First i will speak about each parts of this era (3) and we will see that it was significantly different that now.
+Hello, I'm Willems Cyril. I'm curently studying biology and as parts of my studies, i have to write a blog about a subject of my choice.
+
+So for my blog, i decided to speak about the mezosoic era, some great discover we have done recently and the end of this era. First i will speak about each parts of this era (3) and we will see that it was significantly different that nowaday.
 
 But why i chose this subject ? 
 
 the main reason is because i find that very interesting and a slighly more scientific reason is that we can learn about the past to better known the futur.
+
+I hope you like the subject as well as me and happy reading!
+

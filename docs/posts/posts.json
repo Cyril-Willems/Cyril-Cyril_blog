@@ -30,6 +30,21 @@
     "last_modified": "2021-05-02T12:48:40+02:00"
   },
   {
+    "path": "posts/bibliography/",
+    "title": "Bibliography",
+    "description": {},
+    "author": [
+      {
+        "name": "willems cyril",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-05-02T17:41:02+02:00"
+  },
+  {
     "path": "posts/conclusion/",
     "title": "Conclusion",
     "description": {},

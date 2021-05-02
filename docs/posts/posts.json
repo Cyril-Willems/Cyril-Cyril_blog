@@ -30,6 +30,21 @@
     "last_modified": "2021-05-02T12:48:40+02:00"
   },
   {
+    "path": "posts/conclusion/",
+    "title": "Conclusion",
+    "description": {},
+    "author": [
+      {
+        "name": "willems cyril",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2021-05-02T17:12:52+02:00"
+  },
+  {
     "path": "posts/introduction/",
     "title": "Introduction",
     "description": {},
@@ -61,21 +76,6 @@
     ],
     "preview": {},
     "last_modified": "2021-05-02T16:33:01+02:00"
-  },
-  {
-    "path": "posts/conclusion/",
-    "title": "Conclusion",
-    "description": {},
-    "author": [
-      {
-        "name": "willems cyril",
-        "url": {}
-      }
-    ],
-    "date": "2021-05-02",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2021-05-02T17:12:52+02:00"
   },
   {
     "path": "posts/article 7/",
